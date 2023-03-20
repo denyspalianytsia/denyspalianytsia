@@ -18,6 +18,6 @@
 
 ### Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=purple)](/https://www.instagram.com/denispalianitsia/)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=purple)](https://instagram.com/denispalianitsia?igshid=ZDdkNTZiNTM=)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100054716852329)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Twitter&logoColor=blue)](https://twitter.com/PalanicaDenis?t=nfUrSL8Gf_-Yk5g_cvvO5g&s=35)
