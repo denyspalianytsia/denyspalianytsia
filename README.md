@@ -1,4 +1,4 @@
-## Hi, I'm a python developer.
+## Hi, I'm a junior python developer.
 
 ![](https://komarev.com/ghpvc/?username=denyspalianytsia)
 
